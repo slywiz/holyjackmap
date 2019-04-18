@@ -1,0 +1,58 @@
+<html>
+<head>
+  <title>Santiago</title>
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
+  <link rel="stylesheet" href="http://code.ionicframework.com/ionicons/1.5.2/css/ionicons.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="leaflet.awesome-markers.css">
+  <link rel="stylesheet" href="../dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="../dist/MarkerCluster.Default.css" />
+  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+  <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+  <script src="leaflet.awesome-markers.js"></script>
+  <script src="../dist/leaflet.markercluster-src.js"></script>
+  <style>
+    #map{ height: 100% }
+  </style>
+</head>
+<body>
+
+  <div id="map"></div>
+
+  <script>
+
+  // initialize the map
+  var map = L.map('map').setView([44.824426726144154,3.4868931770324707], 7);
+
+  // load a tile layer
+  L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+    {
+      attribution: 'Tiles by <a href="http://mapc.org">MAPC</a>, Data by <a href="http://mass.gov/mgis">MassGIS</a>',
+      maxZoom: 20
+     
+    }).addTo(map);
+
+  // load GeoJSON from an external file
+  $.getJSON("santiago.geojson",function(data){
+  var myMarker = L.AwesomeMarkers.icon({
+		prefix:'fa',
+		icon: 'smile-o',   
+		markerColor: 'orange',
+		iconColor:'black'
+		});
+    // add GeoJSON layer to the map once the file is loaded
+   L.geoJson(data,{
+      pointToLayer: function(feature,latlng){
+		
+        var marker = L.marker(latlng,{icon:myMarker});
+        marker.bindPopup(feature.properties.title + '<br/>' + feature.properties.description + '<br/>');
+        return marker;
+      }
+    }).addTo(map);
+  });
+  
+
+
+  </script>
+</body>
+</html>
