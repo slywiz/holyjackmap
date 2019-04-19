@@ -3,7 +3,13 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Route de Frontenex",
+        "date": "31 mars 2019"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -14,7 +20,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Pougny-Gare",
+        "date": "31 mars 2019"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -25,18 +37,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.822609066963196,
-          46.14999270776461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Nantua",
+        "date": "3 avril 2019"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -47,7 +54,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Cerdon",
+        "date": "4 avril 2019"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -58,7 +71,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Amberieu en Bugey",
+        "date": "5 avril 2019"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -69,7 +88,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Perouges",
+        "date": "6 avril 2019"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -80,7 +105,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Montluel",
+        "date": "7 avril 2019"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -91,7 +122,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Lyon",
+        "date": "8 avril 2019"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -102,7 +139,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Pont-de-Thurins",
+        "date": "9 avril 2019"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,7 +156,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "St-Saphorien-sur-Coise",
+        "date": "10 avril 2019"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -124,7 +173,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "St-Galmier",
+        "date": "11 avril 2019"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -135,7 +190,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "St-Georges-Haute-Ville",
+        "date": "12 avril 2019"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -146,7 +207,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Montarcher",
+        "date": "13 avril 2019"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -157,7 +224,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Pontempeyrat",
+        "date": "14 avril 2019"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -168,7 +241,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Le Cros",
+        "date": "15 avril 2019"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -179,7 +258,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Le Puy-en-Velay",
+        "date": "16 avril 2019"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -190,7 +275,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "St-Privat-d'Allier",
+        "date": "17 avril 2019"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -201,7 +292,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Saugues",
+        "date": "18 avril 2019"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -212,45 +309,35 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "St-Germain-de-Joux",
+        "date": "2 avril 2019"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.352375030517578,
-          44.74075893534873
+          5.73784589767456,
+          46.1783149490166
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Lancrans",
+        "date": "1er avril 2019"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.1929874420166016,
-          44.70703521478278
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.046431541442871,
-          44.66241105003902
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.4868931770324707,
-          44.824426726144154
+          5.831594467163086,
+          46.12560451043768
         ]
       }
     }
