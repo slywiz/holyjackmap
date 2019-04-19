@@ -32,6 +32,18 @@
      
     }).addTo(map);
 
+	//icone St jacques de 12	
+		var shellicon = L.icon({
+    iconUrl: 'shellMarker.png',
+   
+
+    iconSize:     [30, 36], // size of the icon
+   // shadowSize:   [50, 64], // size of the shadow
+    iconAnchor:   [15, 30], // point of the icon which will correspond to marker's location
+    popupAnchor:  [0,-15] // point from which the popup should open relative to the iconAnchor
+});
+	
+	
   // load GeoJSON from an external file
   $.getJSON("santiago.geojson",function(data){
   var myMarker = L.AwesomeMarkers.icon({
@@ -44,7 +56,7 @@
    L.geoJson(data,{
       pointToLayer: function(feature,latlng){
 		
-        var marker = L.marker(latlng,{icon:myMarker});
+        var marker = L.marker(latlng,{icon:shellicon});
         marker.bindPopup(feature.properties.etape + '<br/>' + feature.properties.date + '<br/>');
         return marker;
       }
