@@ -340,6 +340,24 @@
           46.12560451043768
         ]
       }
+    },
+	
+	 {
+      "type": "Feature",
+      "properties": {
+	   "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Le Sauvage",
+        "date": "19 avril 2019"
+	  },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4868931770324707,
+          44.824426726144154
+        ]
+      }
     }
   ]
 }
