@@ -7,8 +7,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "etape": "Route de Frontenex",
-        "date": "31 mars 2019"
+        "etape": "route de Frontenex 62 bis",
+        "date": "31 mars 2019",
+        "photo": "photosDef/IMG-20190331-WA0003.jpg"
       },
       "geometry": {
         "type": "Point",
