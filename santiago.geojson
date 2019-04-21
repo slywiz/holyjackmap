@@ -26,7 +26,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "etape": "Pougny-Gare",
-        "date": "31 mars 2019"
+        "date": "31 mars 2019",
+		"photo": "photosDef/IMG-20190331-WA0006.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +44,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "etape": "Nantua",
-        "date": "3 avril 2019"
+        "date": "3 avril 2019",
+		"photo": "photosDef/IMG-20190403-WA0002.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -60,7 +62,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "etape": "Cerdon",
-        "date": "4 avril 2019"
+        "date": "4 avril 2019",
+		"photo": "photosDef/IMG-20190404-WA0003.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -77,7 +80,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "etape": "Amberieu en Bugey",
-        "date": "5 avril 2019"
+        "date": "5 avril 2019",
+		"photo": "photosDef/IMG-20190405-WA0003.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -264,7 +268,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "etape": "Le Puy-en-Velay",
-        "date": "16 avril 2019"
+        "date": "16 avril 2019",
+		 "photo": "photosDef/IMG-20190417-WA0001.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -342,21 +347,39 @@
         ]
       }
     },
-	
-	 {
+    {
       "type": "Feature",
       "properties": {
-	   "marker-color": "#7e7e7e",
+        "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
         "etape": "Le Sauvage",
-        "date": "19 avril 2019"
-	  },
+        "date": "19 avril 2019",
+        "photo": "photosDef/IMG-20190420-WA0006.jpg"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           3.4868931770324707,
           44.824426726144154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "St-Alban-sur-Limagnole",
+        "date": "20 avril 2019",
+        "photo": "photosDef/IMG-20190420-WA0001.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.387962579727173,
+          44.78116870391072
         ]
       }
     }
