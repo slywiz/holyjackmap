@@ -27,7 +27,7 @@
         "marker-symbol": "",
         "etape": "Pougny-Gare",
         "date": "31 mars 2019",
-		"photo": "photosDef/IMG-20190331-WA0006.jpg"
+		"photo": "photosDef/IMG-20190331-WA0006V.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -132,7 +132,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "etape": "Lyon",
-        "date": "8 avril 2019"
+        "date": "8 avril 2019",
+		"photo": "photosDef/IMG-20190410-WA0001.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -183,7 +184,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "etape": "St-Galmier",
-        "date": "11 avril 2019"
+        "date": "11 avril 2019",
+		"photo": "photosDef/IMG-20190411-WA0000.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -216,14 +218,15 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "etape": "Montarcher",
-        "date": "13 avril 2019"
+        "etape": "La Chapelle-en-Lafaye",
+        "date": "13 avril 2019",
+		"photo": "photosDef/IMG-20190413-WA0000.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.995697498321533,
-          45.459031938721054
+          3.989045619964599,
+          45.46276441868627
         ]
       }
     },
@@ -251,7 +254,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "etape": "Le Cros",
-        "date": "15 avril 2019"
+        "date": "15 avril 2019",
+		"photo": "photosDef/IMG-20190415-WA0001.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -269,7 +273,7 @@
         "marker-symbol": "",
         "etape": "Le Puy-en-Velay",
         "date": "16 avril 2019",
-		 "photo": "photosDef/IMG-20190417-WA0001.jpg"
+		 "photo": "photosDef/IMG-20190417-WA0001V.jpg"
       },
       "geometry": {
         "type": "Point",

@@ -53,12 +53,34 @@
 		iconColor:'black'
 		});
     // add GeoJSON layer to the map once the file is loaded
+	
+	
    L.geoJson(data,{
       pointToLayer: function(feature,latlng){
+	  var marker = L.marker(latlng,{icon:shellicon});
+	 var photoV =  (feature.properties.etape + '<br/>' + feature.properties.date + '<br/>' + '<img src="'+ feature.properties.photo + '" style ="width:225px ; height:300px "/>');
+	 var photoH =  (feature.properties.etape + '<br/>' + feature.properties.date + '<br/>' + '<img src="'+ feature.properties.photo + '" style ="width:300px ; height:225px "/>');
+	var photostring = (feature.properties.photo)
+	
+	
+	  
+        if (feature.properties.photo) {
+			if (photostring.includes("V")) {
 		
-        var marker = L.marker(latlng,{icon:shellicon});
-        marker.bindPopup(feature.properties.etape + '<br/>' + feature.properties.date + '<br/>' + '<img src="'+ feature.properties.photo + '" style ="width:300px ; height:225px "/>');
-        return marker;
+			marker.bindPopup(feature.properties.etape + '<br/>' + feature.properties.date + '<br/>' + '<img src="'+ feature.properties.photo + '" style ="width:225px ; height:300px "/>');;
+			}
+			else {
+			marker.bindPopup(photoH);
+			}
+        
+			}		 
+		
+		else  {
+		marker.bindPopup(feature.properties.etape + '<br/>' + feature.properties.date);
+ 
+		}
+		 return marker;
+      
       }
     }).addTo(map);
   });
