@@ -27,7 +27,7 @@
         "marker-symbol": "",
         "etape": "Pougny-Gare",
         "date": "31 mars 2019",
-		"photo": "photosDef/IMG-20190331-WA0006V.jpg"
+        "photo": "photosDef/IMG-20190331-WA0006V.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -45,7 +45,7 @@
         "marker-symbol": "",
         "etape": "Nantua",
         "date": "3 avril 2019",
-		"photo": "photosDef/IMG-20190403-WA0002.jpg"
+        "photo": "photosDef/IMG-20190403-WA0002.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -63,7 +63,7 @@
         "marker-symbol": "",
         "etape": "Cerdon",
         "date": "4 avril 2019",
-		"photo": "photosDef/IMG-20190404-WA0003.jpg"
+        "photo": "photosDef/IMG-20190404-WA0003.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +81,7 @@
         "marker-symbol": "",
         "etape": "Amberieu en Bugey",
         "date": "5 avril 2019",
-		"photo": "photosDef/IMG-20190405-WA0003.jpg"
+        "photo": "photosDef/IMG-20190405-WA0003.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -97,43 +97,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "etape": "Perouges",
-        "date": "6 avril 2019"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.179409980773926,
-          45.90347821569187
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "etape": "Montluel",
-        "date": "7 avril 2019"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.057862997055053,
-          45.8514092645937
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "etape": "Lyon",
         "date": "8 avril 2019",
-		"photo": "photosDef/IMG-20190410-WA0001.jpg"
+        "photo": "photosDef/IMG-20190410-WA0001.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -185,7 +151,7 @@
         "marker-symbol": "",
         "etape": "St-Galmier",
         "date": "11 avril 2019",
-		"photo": "photosDef/IMG-20190411-WA0000.jpg"
+        "photo": "photosDef/IMG-20190411-WA0000.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -220,7 +186,7 @@
         "marker-symbol": "",
         "etape": "La Chapelle-en-Lafaye",
         "date": "13 avril 2019",
-		"photo": "photosDef/IMG-20190413-WA0000.jpg"
+        "photo": "photosDef/IMG-20190413-WA0000.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -255,7 +221,7 @@
         "marker-symbol": "",
         "etape": "Le Cros",
         "date": "15 avril 2019",
-		"photo": "photosDef/IMG-20190415-WA0001.jpg"
+        "photo": "photosDef/IMG-20190415-WA0001.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -273,7 +239,7 @@
         "marker-symbol": "",
         "etape": "Le Puy-en-Velay",
         "date": "16 avril 2019",
-		 "photo": "photosDef/IMG-20190417-WA0001V.jpg"
+        "photo": "photosDef/IMG-20190417-WA0001V.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -387,7 +353,7 @@
         ]
       }
     },
-	{
+    {
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
@@ -404,8 +370,40 @@
           44.72276370882803
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Meiximieux",
+        "date": "6 avril 2019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.192499160766602,
+          45.90383657613066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Beynost",
+        "date": "7 avril 2019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.001440048217773,
+          45.8398325910482
+        ]
+      }
     }
-	
-	
   ]
 }
