@@ -404,6 +404,24 @@
           45.8398325910482
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Finieyrols",
+        "date": "22 avril 2019",
+        "photo": "photosDef/IMG-20190422-WA0001.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1397509574890137,
+          44.684475702634764
+        ]
+      }
     }
   ]
 }
