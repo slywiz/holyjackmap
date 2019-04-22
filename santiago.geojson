@@ -386,6 +386,26 @@
           44.78116870391072
         ]
       }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Aumont-Aubrac",
+        "date": "21 avril 2019",
+        "photo": "photosDef/IMG-20190421-WA0006V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2845044136047363,
+          44.72276370882803
+        ]
+      }
     }
+	
+	
   ]
 }
