@@ -418,8 +418,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.1397509574890137,
-          44.684475702634764
+          3.139411,
+          44.684386     
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Aubrac",
+        "date": "23 avril 2019",
+        "photo": "photosDef/IMG-20190423-WA0011.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.987696528434753,
+          44.62223518428524
         ]
       }
     }
