@@ -458,6 +458,24 @@
           44.51509103349382
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Estaing",
+        "date": "25 avril 2019",
+        "photo": "photosDef/IMG-20190425-WA0007V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6724672317504883,
+          44.55365905879741
+        ]
+      }
     }
   ]
 }
