@@ -419,7 +419,7 @@
         "type": "Point",
         "coordinates": [
           3.139411,
-          44.684386     
+          44.684386
         ]
       }
     },
@@ -436,8 +436,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.987696528434753,
-          44.62223518428524
+          2.9854917526245117,
+          44.627169924788106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "St-Côme d'Olt",
+        "date": "24 avril 2019",
+        "photo": "photosDef/IMG-20190424-WA0008V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8151607513427734,
+          44.51509103349382
         ]
       }
     }
