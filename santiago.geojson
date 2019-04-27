@@ -476,6 +476,24 @@
           44.55365905879741
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Ferme Bessoles",
+        "date": "27 avril 2019",
+        "photo": "photosDef/IMG-20190426-WA0002.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5415003299713135,
+          44.5955516876756
+        ]
+      }
     }
   ]
 }
