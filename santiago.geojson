@@ -484,7 +484,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "etape": "Ferme Bessoles",
-        "date": "27 avril 2019",
+        "date": "26 avril 2019",
         "photo": "photosDef/IMG-20190426-WA0002.jpg"
       },
       "geometry": {
@@ -492,6 +492,24 @@
         "coordinates": [
           2.5415003299713135,
           44.5955516876756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Conques",
+        "date": "27 avril 2019",
+        "photo": "photosDef/IMG-20190427-WA0008V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.397294044494629,
+          44.59960445788574
         ]
       }
     }
