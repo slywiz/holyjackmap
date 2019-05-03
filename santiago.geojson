@@ -512,6 +512,95 @@
           44.59960445788574
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Decazeville",
+        "date": "28 avril 2019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2544717788696285,
+          44.55830721625667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Seyrignac",
+        "date": "29 avril 2019",
+        "photo": "photosDef/IMG-20190429-WA0004V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0776283740997314,
+          44.62176173258267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Béduer",
+        "date": "30 avril 2019",
+        "photo": "photosDef/IMG-20190430-WA0005.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9486141204833984,
+          44.58086232456777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Cajarc",
+        "date": "1er mai 2019",
+        "photo": "photosDef/IMG-20190501-WA0002V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8426132202148438,
+          44.48577511029781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Limogne-en-Quercy",
+        "date": "2 mai 2019",
+        "photo": "photosDef/IMG-20190502-WA0005V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.770440340042114,
+          44.39779256019553
+        ]
+      }
     }
   ]
 }
