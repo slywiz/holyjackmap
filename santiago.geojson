@@ -601,6 +601,24 @@
           44.39779256019553
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Lalbenque",
+        "date": "3 avril 2019",
+        "photo": "photosDef/IMG-20190503-WA0001V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5463364124298096,
+          44.33817635098811
+        ]
+      }
     }
   ]
 }
