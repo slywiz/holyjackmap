@@ -619,6 +619,131 @@
           44.33817635098811
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Trigodina",
+        "date": "4 mai 2019",
+        "photo": "photosDef/IMG-20190505-WA0006.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3878393173217773,
+          44.36357798886637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Montcuq",
+        "date": "5 mai 2019",
+        "photo": "photosDef/IMG-20190505-WA0004V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2087535858154297,
+          44.33836051603267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Parry",
+        "date": "6 mai 2019",
+        "photo": "photosDef/IMG-20190506-WA0001.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.16379976272583,
+          44.22942581721402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Moissac",
+        "date": "7 mai 2019",
+        "photo": "photosDef/IMG-20190507-WA0002V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0864448547363281,
+          44.105183546050135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Auvillar",
+        "date": "8 mai 2019",
+        "photo": "photosDef/IMG-20190509-WA0011.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8999347686767579,
+          44.0703050319922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Castet-Arrouy",
+        "date": "9 mai 2019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7155382633209229,
+          43.97986125390345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Marsolan",
+        "date": "10 mai 2019",
+        "photo": "photosDef/IMG-20190510-WA0005.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5397462844848633,
+          43.94295448678989
+        ]
+      }
     }
   ]
 }
