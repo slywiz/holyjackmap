@@ -744,6 +744,167 @@
           43.94295448678989
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Condom",
+        "date": "11 mai 2019",
+        "photo": "photosDef/IMG-20190511-WA0001.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3737926483154297,
+          43.9572982579071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Lamothe",
+        "date": "12 mai 2019",
+        "photo": "photosDef/IMG-20190512-WA0003.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.15408754348754883,
+          43.90432419291183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Manciet",
+        "date": "13 mai 2019",
+        "photo": "photosDef/IMG-20190513-WA0009.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.04184246063232421,
+          43.7999536360723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Lanne-Soubiran",
+        "date": "14 mai 2019",
+        "photo": "photosDef/IMG-20190514-WA0008.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10986328125,
+          43.747769619814136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Aire-sur-l'Adour",
+        "date": "15 mai 2019",
+        "photo": "photosDef/IMG-20190515-WA0009V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2629852294921875,
+          43.70123356357665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Ferme de Marsan",
+        "date": "16 mai 2019",
+        "photo": "photosDef/IMG-20190516-WA0006.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.35497426986694336,
+          43.590726798649655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Uzan",
+        "date": "17 mai 2019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5040407180786133,
+          43.48043714888669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Maslacq",
+        "date": "18 mai 2019",
+        "photo": "photosDef/IMG-20190518-WA0007.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6971168518066406,
+          43.44039954957107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Navarrenx",
+        "date": "19 mai 2019",
+        "photo": "photosDef/IMG-20190519-WA0001V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7607495784759521,
+          43.32258639112584
+        ]
+      }
     }
   ]
 }
