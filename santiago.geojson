@@ -905,6 +905,78 @@
           43.32258639112584
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Aroue",
+        "date": "20 mai 2019",
+        "photo": "photosDef/IMG-20190521-WA0005V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9180128574371338,
+          43.31780938824496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Ostabat",
+        "date": "21 mai 2019",
+        "photo": "photosDef/IMG-20190521-WA0006.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0709738731384277,
+          43.255627290979625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Saint-Jean-Pied-de-Port",
+        "date": "22 mai 2019",
+        "photo": "photosDef/IMG-20190522-WA0001V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2376999855041504,
+          43.1622271449256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Bidarray",
+        "date": "23 mai 2019",
+        "photo": "photosDef/IMG-20190523-WA0004.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3483357429504392,
+          43.265768824540494
+        ]
+      }
     }
   ]
 }
