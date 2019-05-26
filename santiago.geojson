@@ -1013,6 +1013,24 @@
           43.34552169994821
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Irun",
+        "date": "26 mai 2019",
+        "photo": "photosDef/IMG-20190526-WA0002.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7903423309326172,
+          43.33913127487557
+        ]
+      }
     }
   ]
 }
