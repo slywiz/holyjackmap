@@ -977,6 +977,42 @@
           43.265768824540494
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Espelette",
+        "date": "24 mai 2019",
+        "photo": "photosDef/IMG-20190524-WA0007.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4481782913208008,
+          43.34050460977903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Ascain",
+        "date": "25 mai 2019",
+        "photo": "photosDef/IMG-20190525-WA0002.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6209769248962402,
+          43.34552169994821
+        ]
+      }
     }
   ]
 }
