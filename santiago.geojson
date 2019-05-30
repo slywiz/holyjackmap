@@ -1031,6 +1031,60 @@
           43.33913127487557
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "San Sebastian",
+        "date": "27 mai 2019",
+        "photo": "photosDef/IMG-20190527-WA0017V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9777965545654297,
+          43.323304470195914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Zarautz",
+        "date": "28 mai 2019",
+        "photo": "photosDef/IMG-20190528-WA0003.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.165508270263672,
+          43.287764987651734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Deba",
+        "date": "29 mai 2019",
+        "photo": "photosDef/IMG-20190529-WA0007.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3528122901916504,
+          43.29706565975696
+        ]
+      }
     }
   ]
 }
