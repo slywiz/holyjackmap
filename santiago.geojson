@@ -1085,6 +1085,24 @@
           43.29706565975696
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Markina-Xemein",
+        "date": "30 mai 2019",
+        "photo": "photosDef/IMG-20190530-WA0001.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4976730346679688,
+          43.26739381309362
+        ]
+      }
     }
   ]
 }
