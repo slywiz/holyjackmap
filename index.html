@@ -92,6 +92,41 @@
 });
 	
 	
+	
+	$.getJSON("tracks/ViaGebennensis.geojson",function(data1){
+// L.geoJson function is used to parse geojson file and load on to map
+L.geoJson(data1).addTo(map);
+});
+	
+	$.getJSON("tracks/ViaPodiensis.geojson",function(data2){
+// L.geoJson function is used to parse geojson file and load on to map
+L.geoJson(data2).addTo(map);
+});
+
+
+	$.getJSON("tracks/ViaStJeanIrun.geojson",function(data3){
+// L.geoJson function is used to parse geojson file and load on to map
+L.geoJson(data3).addTo(map);
+});
+
+
+	$.getJSON("tracks/ViaNorteGijon.geojson",function(data4){
+// L.geoJson function is used to parse geojson file and load on to map
+L.geoJson(data4).addTo(map);
+});
+
+	$.getJSON("tracks/ArzuaPedrouzo.geojson",function(data5){
+// L.geoJson function is used to parse geojson file and load on to map
+L.geoJson(data5).addTo(map);
+});
+
+	$.getJSON("tracks/PedrouzoSantiago.geojson",function(data6){
+// L.geoJson function is used to parse geojson file and load on to map
+L.geoJson(data6).addTo(map);
+});
+
+
+	
   // load GeoJSON from an external file
   $.getJSON("santiago.geojson",function(data){
   var myMarker = L.AwesomeMarkers.icon({
@@ -102,6 +137,7 @@
 		});
     // add GeoJSON layer to the map once the file is loaded
 	
+
 	
    L.geoJson(data,{
       pointToLayer: function(feature,latlng){
