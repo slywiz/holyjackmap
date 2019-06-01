@@ -1103,6 +1103,42 @@
           43.26739381309362
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Gernika",
+        "date": "31 mai 2019",
+        "photo": "photosDef/IMG-20190531-WA0004.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.677316665649414,
+          43.314562060758085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Lezama",
+        "date": "1er juin 2019",
+        "photo": "photosDef/IMG-20190601-WA0002.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.832820415496826,
+          43.27486195260225
+        ]
+      }
     }
   ]
 }
