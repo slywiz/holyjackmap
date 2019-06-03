@@ -1157,6 +1157,24 @@
           43.25597891324552
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Portugalete",
+        "date": "3 mai 2019",
+        "photo": "photosDef/IMG-20190603-WA0009.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.020339012145996,
+          43.32
+        ]
+      }
     }
   ]
 }
