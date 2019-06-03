@@ -1139,6 +1139,24 @@
           43.27486195260225
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Bilbao",
+        "date": "2 juin 2019",
+        "photo": "photosDef/IMG-20190602-WA0004V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9402804374694824,
+          43.25597891324552
+        ]
+      }
     }
   ]
 }
