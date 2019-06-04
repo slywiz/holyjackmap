@@ -1175,6 +1175,24 @@
           43.32
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Castro Urdiales",
+        "date": "4 juin 2019",
+        "photo": "photosDef/IMG-20190604-WA0005.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.217620849609375,
+          43.384965139025674
+        ]
+      }
     }
   ]
 }
