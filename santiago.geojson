@@ -1193,6 +1193,60 @@
           43.384965139025674
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Laredo",
+        "date": "5 juin 2019",
+        "photo": "photosDef/IMG-20190606-WA0003.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4136581420898438,
+          43.41190639248755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Noja",
+        "date": "6 juin 2019",
+        "photo": "photosDef/IMG-20190606-WA0006.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5181999206542964,
+          43.48095095299566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Galizano",
+        "date": "7 juin 2019",
+        "photo": "photosDef/IMG-20190607-WA0004.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.670892715454102,
+          43.469179071403765
+        ]
+      }
     }
   ]
 }
