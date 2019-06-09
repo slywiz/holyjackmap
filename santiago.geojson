@@ -1247,6 +1247,42 @@
           43.469179071403765
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Boo de Piélagos",
+        "date": "8 juin 2019",
+        "photo": "photosDef/IMG-20190608-WA0004.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9478254318237305,
+          43.430234561796645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Santillana del Mar",
+        "date": "9 juin 2019",
+        "photo": "photosDef/IMG-20190609-WA0010.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.108436107635497,
+          43.3908907477104
+        ]
+      }
     }
   ]
 }
