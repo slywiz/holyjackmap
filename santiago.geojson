@@ -1283,6 +1283,96 @@
           43.3908907477104
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Comillas",
+        "date": "10 juin 2019",
+        "photo": "photosDef/IMG-20190610-WA0011.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.289517402648926,
+          43.386867634423155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Muñorrodero",
+        "date": "11 juin 2019",
+        "photo": "photosDef/IMG-20190611-WA0008.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.485994577407837,
+          43.3635891514575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Puertas de Vidiago",
+        "date": "12 juin 2019",
+        "photo": "photosDef/IMG-20190612-WA0006V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.686291217803955,
+          43.39876467331533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Nueva",
+        "date": "13 juin 2019",
+        "photo": "photosDef/IMG-20190613-WA0002.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.938483238220215,
+          43.43939656577918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Ribadesella",
+        "date": "14 juin 2019",
+        "photo": "photosDef/IMG-20190615-WA0013.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.058259963989258,
+          43.46322997341368
+        ]
+      }
     }
   ]
 }
