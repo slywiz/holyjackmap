@@ -1373,6 +1373,96 @@
           43.46322997341368
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Colunga",
+        "date": "15 juin 2019",
+        "photo": "photosDef/IMG-20190615-WA0026.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.268073081970215,
+          43.48702285241219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Villaviciosa",
+        "date": "16 juin 2019",
+        "photo": "photosDef/IMG-20190616-WA0013.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4327392578125,
+          43.484563028239144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Gijon",
+        "date": "17 juin 2019",
+        "photo": "photosDef/IMG-20190618-WA0010.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.663881301879883,
+          43.54643295767845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Gijon - pause",
+        "date": "18 juin 2019",
+        "photo": "photosDef/IMG-20190618-WA0000.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.674867630004883,
+          43.54245129141785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Avilés",
+        "date": "19 juin 2019",
+        "photo": "photosDef/IMG-20190619-WA0005.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.908927917480469,
+          43.554022280508754
+        ]
+      }
     }
   ]
 }
