@@ -1463,6 +1463,96 @@
           43.554022280508754
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Muros de Nalòn",
+        "date": "20 juin 2019",
+        "photo": "photosDef/IMG-20190620-WA0016.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.104707717895508,
+          43.544224409654426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Novellana",
+        "date": "21 juin 2019",
+        "photo": "photosDef/IMG-20190621-WA0000.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.283085346221923,
+          43.562815679540975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Canero",
+        "date": "22 juin 2019",
+        "photo": "photosDef/IMG-20190624-WA0021P.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.446303129196167,
+          43.54053813167367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Tapia de Casariego",
+        "date": "24 juin 2019",
+        "photo": "photosDef/IMG-20190624-WA0009.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.944475173950195,
+          43.57283594622741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Navia",
+        "date": "23 juin 2019",
+        "photo": "photosDef/IMG-20190623-WA0011V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.722903251647949,
+          43.54102031586806
+        ]
+      }
     }
   ]
 }
