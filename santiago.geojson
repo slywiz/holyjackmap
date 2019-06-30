@@ -1553,6 +1553,96 @@
           43.54102031586806
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Ribadeo",
+        "date": "25 juin 2019",
+        "photo": "photosDef/IMG-20190625-WA0015.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.040648460388184,
+          43.53803382270667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Lourenzà",
+        "date": "26 juin 2019",
+        "photo": "photosDef/IMG-20190626-WA0004.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.300801277160644,
+          43.47241812463926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Abadín",
+        "date": "27 juin 2019",
+        "photo": "photosDef/IMG-20190630-WA0005.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.475370168685912,
+          43.363963549513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Vilalba",
+        "date": "28 juin 2019",
+        "photo": "photosDef/IMG-20190628-WA0007.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.679829597473144,
+          43.29819788627291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Baamonde",
+        "date": "29 juin 2019",
+        "photo": "photosDef/IMG-20190629-WA0002.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7596092224121085,
+          43.17532617151612
+        ]
+      }
     }
   ]
 }
