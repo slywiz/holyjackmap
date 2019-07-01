@@ -1643,6 +1643,42 @@
           43.17532617151612
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Roxica",
+        "date": "30 juin 2019",
+        "photo": "photosDef/IMG-20190630-WA0030.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.911937236785889,
+          43.066042597311316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Sobrado dos Monxes",
+        "date": "1er juillet 2019",
+        "photo": "photosDef/IMG-20190701-WA0002.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.022422790527344,
+          43.04069667025709
+        ]
+      }
     }
   ]
 }
