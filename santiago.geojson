@@ -1679,6 +1679,42 @@
           43.04069667025709
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Arzùa",
+        "date": "2 juillet 2019",
+        "photo": "photosDef/IMG-20190702-WA0001V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.163442611694336,
+          42.927174206073246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "O Pedrouzo",
+        "date": "3 juillet 2019",
+        "photo": "photosDef/IMG-20190703-WA0001.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.364458084106445,
+          42.90432510595792
+        ]
+      }
     }
   ]
 }
