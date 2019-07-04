@@ -55,10 +55,9 @@
 
 // initialize the map
   var map = L.map('map', {
-			center: [   42.90432510595792,   -8.364458084106445],     
+			center: [   42.880524123434036,   -8.54488492012024],     
          
-		
-    
+	
 			zoom: 7,
 			layers: [streets]
 		});
@@ -146,7 +145,8 @@ L.geoJson(data6).addTo(map);
 	 var photoP =  (feature.properties.etape + '<br/>' + feature.properties.date + '<br/>' + '<img src="'+ feature.properties.photo + '" style ="width:145px ; height:300px "/>');
 	 var photoH =  (feature.properties.etape + '<br/>' + feature.properties.date + '<br/>' + '<img src="'+ feature.properties.photo + '" style ="width:300px ; height:225px "/>');
 	var photostring = (feature.properties.photo)
-	
+	var photoB = (feature.properties.etape + '<br/>' + feature.properties.date + '<br/>' + '<img src="'+ feature.properties.photo + '" style ="width:300px ; height:400px "/>');
+	//var photoLinkString = (feature.properties.link)
 	
 	  
         if (feature.properties.photo) {
@@ -159,6 +159,13 @@ L.geoJson(data6).addTo(map);
 			else if (photostring.includes("P")) {
 			
 			marker.bindPopup(photoP);
+			
+			}
+			
+			
+			else if (photostring.includes("B")) {
+			
+			marker.bindPopup(photoB);
 			
 			}
 			

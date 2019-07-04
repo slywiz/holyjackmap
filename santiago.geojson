@@ -1715,6 +1715,24 @@
           42.90432510595792
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "SANTIAGO DE COMPOSTELA!",
+        "date": "4 juillet 2019",
+        "photo": "photosDef/IMG-20190704-WA0001B.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.54488492012024,
+          42.880524123434036
+        ]
+      }
     }
   ]
 }
