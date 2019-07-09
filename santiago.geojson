@@ -1733,6 +1733,96 @@
           42.880524123434036
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Negreira",
+        "date": "5 juillet 2019",
+        "photo": "photosDef/IMG-20190705-WA0009V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.73561143875122,
+          42.91237197279979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Santa Mariña",
+        "date": "6 juillet 2019",
+        "photo": "photosDef/IMG-20190706-WA0007.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.918817043304443,
+          42.957027122638856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "Cee",
+        "date": "7 juillet 2019",
+        "photo": "photosDef/IMG-20190707-WA0004.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.190675020217896,
+          42.95580218913727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "FISTERRA!",
+        "date": "8 juillet 2019",
+        "photo": "photosDef/IMG-20190708-WA0000.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.271430969238281,
+          42.882442376413245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "etape": "mas Fisterra!",
+        "date": "9 juillet 2019",
+        "photo": "photosDef/IMG-20190709-WA0000V.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.261388778686523,
+          42.90331917374009
+        ]
+      }
     }
   ]
 }
